@@ -2,11 +2,11 @@
     "name": "magegate/illuminate",
     "description": "Enables windows memcached without php Memcached class",
     "keywords": ["illuminate", "magegate", "laravel", "php"],
-    "homepage": "https://github.com/magegate/magento",
+    "homepage": "https://github.com/magegate/illuminate",
     "authors": [
         {
             "name": "magegate",
-            "email": "git@magegate"
+            "email": "git@magegate.com"
         }
     ],
     "require": {
