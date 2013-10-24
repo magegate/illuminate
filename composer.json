@@ -1,0 +1,22 @@
+{
+    "name": "magegate/illuminate",
+    "description": "Enables windows memcached without php Memcached class",
+    "keywords": ["illuminate", "magegate", "laravel", "php"],
+    "homepage": "https://github.com/magegate/magento",
+    "authors": [
+        {
+            "name": "magegate",
+            "email": "git@magegate"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Magegate\\Illuminate": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
